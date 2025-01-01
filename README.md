@@ -1,27 +1,36 @@
-# 👋 Hi, I’m Oussama Farhani  
+# Hi there! 👋
 
-- 👀 I’m interested in:
-  - Artificial Intelligence and Machine Learning, especially in applying CNN models for image classification.  
-  - IoT and smart systems, like my current project on a **Smart Agriculture System** to increase crop yield using IoT, drones, and data analytics.  
-  - Software development and desktop applications, as seen in my internship project creating a PyQt5-based application for product database exploration and price calculation.  
+Welcome to my GitHub profile! I'm passionate about applying cutting-edge techniques to solve complex problems, particularly in optimization, machine learning, and computer vision.
 
-- 🌱 I’m currently learning:
-  - Advanced topics in AI and image processing, including disease detection in plants using captured images.  
-  - Networking, microprocessors, thermodynamics, heat transfer, and more as part of my ongoing studies.  
-  - Data science through **Datacamp** to strengthen my analytical skills.  
+---
 
-- 💞️ I’m looking to collaborate on:
-  - Innovative AI projects, particularly those that intersect with IoT and agriculture.  
-  - Software tools that enhance productivity or solve real-world problems.  
+## 🚀 About Me
 
-- 📫 How to reach me:  
-  - Email: oussama.farhani@ept.ucar.rn  
-  - GitHub: [oussamaF01](https://github.com/oussamaF01)  
+- 🎓 **Student at Tunisia Polytechnic School**, where I dive into challenging projects and innovative research.
+- 🔍 Currently exploring the intersection of **optimization models** and **biological systems**.
+- 💻 Experienced in building computer vision models and working with ResNet architectures for image classification tasks.
+- 🌱 Always learning and expanding my knowledge in **quantum computing**, **data science**, and **AI-driven solutions**.
 
-- ⚡ Fun fact:  
-  - I thrive on learning new things and integrating cutting-edge technologies into practical projects. My passion for innovation drives me to take on challenging endeavors, from building **Rasa chatbots** to drone-enabled smart agriculture solutions.  
+---
 
-<!---
-oussamaF01/oussamaF01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ My Skills
+
+- **Programming:** Python, C, C++, Flask, Java
+- **Concepts:** Object-Oriented Programming (OOP), Optimization, Machine Learning
+- **Machine Learning Frameworks:** PyTorch, TensorFlow, scikit-learn
+- **Optimization:** Quadratic Unconstrained Binary Optimization (QUBO), Linear Programming
+- **Tools:** Jupyter Notebooks, Git, Docker
+
+---
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [your-email@example.com](mailto:oussama.farhani@ept.ucar.tn)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/oussama-farhani-23ba13306/)
+
+
+---
+
+🌟 Feel free to explore my repositories, contribute, or connect with me to discuss interesting ideas and collaborations!
