@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm passionate about applying cutting-edge techniq
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com](mailto:oussama.farhani@ept.ucar.tn)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/oussama-farhani-23ba13306/)
+- **Email:** (mailto:oussama.farhani@ept.ucar.tn)
+- **LinkedIn:** (https://www.linkedin.com/in/oussama-farhani-23ba13306/)
 
 
 ---
