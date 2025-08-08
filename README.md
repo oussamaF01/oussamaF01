@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm passionate about solving complex problems thro
 - 🎓 **Student at Tunisia Polytechnic School**, actively working on challenging projects and innovative research.  
 -🧠 **Passionate** about bridging AI and real-world applications, from intelligent systems to data-driven insights.
 - 💻 Experienced in developing **AI and machine learning models** for diverse applications.  
-- 🔧 Working on **embedded systems**, including **STM32 microcontroller programming** and **hardware-software integration**.  
 - 🌱 Continuously expanding my knowledge in **data engineering**, **quantum computing**, and **AI-driven solutions**.  
 
 ---
