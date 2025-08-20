@@ -1,34 +1,40 @@
-# Hi there! 👋  
+# 👋 Hey, I’m Oussama  
 
-Welcome to my GitHub profile! I'm passionate about solving complex problems through **AI, machine learning, and data analysis**. I thrive on exploring cutting-edge technologies and applying them to real-world challenges.  
-
----
-
-## 🚀 About Me  
-
-- 🎓 **Student at Tunisia Polytechnic School**, actively working on challenging projects and innovative research.  
--🧠 **Passionate** about bridging AI and real-world applications, from intelligent systems to data-driven insights.
-- 💻 Experienced in developing **AI and machine learning models** for diverse applications.  
-- 🌱 Continuously expanding my knowledge in **data engineering**, **quantum computing**, and **AI-driven solutions**.  
+🎓 Final-year engineering student at **Tunisia Polytechnic School (EPT)**  
+⚡ Passionate about **AI, optimization, and data science**  
+🧠 Strong background in **signals, systems, and scientific computing**  
+🚀 On a mission to turn complex problems into elegant solutions  
 
 ---
 
-## 🛠️ My Skills  
+## 🛠️ Tech Stack  
 
-- **Programming:** Python, C, C++, Java, Flask  
-- **Concepts:** Object-Oriented Programming (OOP), AI, Machine Learning, Data Analysis, Optimization, Embedded Systems  
-- **Machine Learning Frameworks:** PyTorch, TensorFlow, scikit-learn  
-- **Optimization:** Quadratic Unconstrained Binary Optimization (QUBO), Linear Programming  
-- **Embedded Systems:** STM32, Microcontroller Programming, Real-time Systems  
-- **Tools:** Jupyter Notebooks, Git, Docker, PyQt5, Pandas, NumPy  
-
----
-
-## 📫 How to Reach Me  
-
-- **Email:** [oussama.farhani@ept.ucar.tn](mailto:oussama.farhani@ept.ucar.tn)  
-- **LinkedIn:** [Oussama Farhani](https://www.linkedin.com/in/oussama-farhani-23ba13306/)  
+- **Languages:** Python 🐍 | C++ ⚡ | Java ☕ | SQL 🗄️  
+- **AI & ML:** PyTorch 🔥 | TensorFlow | scikit-learn 🤖  
+- **Data Science:** Pandas 🐼 | NumPy ➗ | Matplotlib 📊 | Seaborn 🌊  
+- **NLP & LLMs:** Hugging Face 🤗 | LangChain 🔗 | Prompt Engineering  
+- **Dev & Tools:** PyQt5 🖥️ | Streamlit ⚡ | Flask 🌐 | Git/GitHub 🌀 | Jupyter 📓  
+- **Math & Theory:** Optimization | Graph Theory | Probability | Linear Algebra  
 
 ---
 
-🌟 Feel free to explore my repositories, contribute, or reach out for discussions and collaborations! 🚀  
+## 🌐 Connect With Me  
+
+- 📧 [oussama.farhani@ept.ucar.tn](mailto:oussama.farhani@ept.ucar.tn)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/oussama-farhani-23ba13306/)  
+- 📊 [Kaggle](https://www.kaggle.com/oussamafarhani)  
+- 📚 [DataCamp Portfolio](https://www.datacamp.com/portfolio/4rfcgv6mc)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamaF01&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaF01&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oussamaF01&theme=tokyonight)  
+
+---
+
+✨ *Exploring AI, optimization, and the occasional late-night bug. Feel free to check out my repos or reach out!* 🚀  
